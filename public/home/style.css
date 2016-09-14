@@ -1,0 +1,22 @@
+body {
+  font: 13px/20px 'Lucida Grande', Tahoma, Verdana, sans-serif;
+  color: #404040;
+  background: #FFFFFF;
+}
+.header{
+	height: 100px;
+	width: auto;
+	background-color: #00000;
+}
+.logo{
+	height: 70px;
+	width: 200px;
+}
+.name{
+	font-size: 20px;
+	text-align: center;
+}
+.alignRight{
+	margin-right: 20px;
+	text-align: right;
+}
